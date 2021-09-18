@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "664252845304",
+    "project_id": "todos-96064",
+    "storage_bucket": "todos-96064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664252845304:android:c5e8352d003b08ebb47f0d",
+        "android_client_info": {
+          "package_name": "io.tom.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664252845304-fabvpnav53akh6rs746m0fum33tis8fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.tom.todo",
+            "certificate_hash": "0673f306e553f1a469dd0f41a3e4b36a57467270"
+          }
+        },
+        {
+          "client_id": "664252845304-ccotscnjd65pbn7s73n5abs8u8paiqi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9zyGgaK0fGyxlqxRqsRGNwsOuC_Vkdh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664252845304-ccotscnjd65pbn7s73n5abs8u8paiqi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
